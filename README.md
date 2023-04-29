@@ -1,5 +1,5 @@
 # Monte-Carlo-Investments
-Intial code for a Monte Carlo Simulation written in Julia, a luanguage that I have started to learn. This project is a very much a work in progress. Right now I'm using 20 chained functions. This certainly could be optimized to make the code more readable and have better performance. I also plan on adding visulizations. 
+Intial code for a Monte Carlo Simulation written in Julia. This project is a very much a work in progress. Right now I'm using 20 chained functions. This certainly could be optimized to make the code more readable and have better performance. I also plan on adding visulizations. 
 
 OVERVIEW
 
