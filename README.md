@@ -4,7 +4,8 @@ Intial code for a Monte Carlo Simulation written in Julia, a luanguage that I ha
 OVERVIEW
 
 The Monte Carlo Model is a set of functions that simulate potential financial returns based on historical returns of the S&P 500 over 20 years. This project assumes an all-stock portfolio, starting with an initial investment of $10,000 and additional contributions of $21,000 each year.
-Usage
+
+USAGE
 
 The project consists of 20 functions, y1 through y20, that simulate returns for each year, respectively, and a final function, make_model, that combines all 20 functions to produce a DataFrame with the total return for year 20. The odds function calculates the percentiles of the total return values in the DataFrame.
 
@@ -20,7 +21,7 @@ odds()
 
 This will return the 10th, 70th, 80th, and 90th percentiles of the total return values.
 
-Dependencies
+DEPENDENCIES
 
 This project requires the use of the Statistics.jl package, using Random.jl, Distributions.jl DataFrames.jl CSV.jl Plots, StatsPlots.jl
 Contributing
