@@ -29,4 +29,4 @@ Contributing
 
 Disclaimer:
 
-This project is for educational purposes only and should not be used as a basis for making financial decisions. Historical returns are not indicative of future results, and past performance is not a guarantee of future success. Always consult a financial advisor before making investment decisions.
+This project is for educational purposes only and should not be used as a basis for making financial decisions.
